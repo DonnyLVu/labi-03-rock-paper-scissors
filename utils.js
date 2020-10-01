@@ -16,10 +16,9 @@ export function gameFun(){
     return computerChoice;
 }
 
-export function doUserWin(userChoice, value){
-    return userChoice;
-
-}
+// export function doUserWin(userChoice, value){
+//     return userChoice === value;
+// }
 
 
 
