@@ -123,3 +123,7 @@ footer {
     }
 
   }
+
+.ImgChoice{
+    resize: both 50px;
+}
